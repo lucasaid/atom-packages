@@ -1,5 +1,7 @@
 # Atom Packages
 
+Just a list of the atom packages I have installed, could probably remove some of them to be less cluttered.  
+
 #### [KeyCount](https://atom.io/packages/KeyCount)  
 Simple tool to count the number of key strokes using Atom.  
 
